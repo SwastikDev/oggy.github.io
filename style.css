@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+}
+#menubar{
+    background-color: #2874f0;
+    color: #f0f0f0;
+    height: 50px;
+    overflow: hidden;
+
+
+}
+
+
+
+
+
+#home{
+    float: left;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Segoe UI';
+}
+#home:hover{
+    background-color: #4b90ff;
+}
+#home:active{
+    background-color: #004ac2;
+}
+#home a:link{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#home a:visited{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#home a:active{
+    text-decoration: none;
+    color: #f0f0f0;
+    cursor: pointer;
+}
+#home a:hover{
+    cursor: pointer;
+}
+
+#videos{
+    float: left;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Segoe UI';
+}
+#videos:hover{
+    background-color: #4b90ff;
+}
+#videos:active{
+    background-color: #004ac2;
+}
+#videos a:link{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#videos a:visited{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#videos a:active{
+    text-decoration: none;
+    color: #f0f0f0;
+    cursor: pointer;
+}
+#videos a:hover{
+    cursor: pointer;
+}
+
+#about{
+    float: left;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Segoe UI';
+}
+#about:hover{
+    background-color: #4b90ff;
+}
+#about:active{
+    background-color: #004ac2;
+}
+#about a:link{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#about a:visited{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#about a:active{
+    text-decoration: none;
+    color: #f0f0f0;
+    cursor: pointer;
+}
+#about a:hover{
+    cursor: pointer;
+}
+
+#contact{
+    float: left;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Segoe UI';
+}
+#contact:hover{
+    background-color: #4b90ff;
+}
+#contact:active{
+    background-color: #004ac2;
+}
+#contact a:link{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#contact a:visited{
+    text-decoration: none;
+    color: #f0f0f0;
+}
+#contact a:active{
+    text-decoration: none;
+    color: #f0f0f0;
+    cursor: pointer;
+}
+#contact a:hover{
+    cursor: pointer;
+}
+
+#head_content{
+    background-color: #146eff;
+    background-image: linear-gradient(#3887ff,#1968e7);
+    height: 200px;
+    width: auto;
+    text-align: center;
+    color:#f0f0f0;
+    margin: auto;
+    padding-top: 100px;
+    font-family: 'Segoe UI';
+    font-size: 40px;
+}
+#head_content img{
+    height: 64px;
+    width: 64px;
+    border-width: 5px;
+    border-color: #004ac2;
+    border-radius: 10px;
+}
+
+#videos_list{
+    font-family: 'Segoe UI';
+    height: 500px;
+    background: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+}
+#videos_list iframe{
+    height: 250px;
+    width: 425px;
+    border-width: 3px;
+    border-color: #004ac2;
+    border-radius: 5px;
+}
+#videos_list p{
+    font-family: 'Segoe UI';
+    color: #f0f0f0;
+    height: 30px;
+    text-align: center;
+    background-image: linear-gradient(#3887ff ,#146eff);
+    border-radius: 5px;
+    padding: 10px;
+    text-decoration: none;   
+    float: right;
+}
+#website_content{
+    padding: 50px;
+    font-family: "Comic sans ms";
+    font-size: 20px;
+    text-shadow: #3887ff;
+    text-align: center;
+}
+#website_content a{
+    text-decoration: none;
+    background-image: linear-gradient(#3887ff,#146eff);
+    padding: 10px;
+    color: #f0f0f0;
+    border-radius: 10px;
+}
